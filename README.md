@@ -16,6 +16,15 @@ Being passionate about writing clean and highly-performant code I desire to rema
 
 ---
 
+📖 Latest Selleo Blog Articles
+
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
+▶️ [...more Selleo articles](https://selleo.com/blog)
+
+
 <!--
 **MarcinCholewka/MarcinCholewka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
