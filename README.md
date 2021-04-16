@@ -1,6 +1,12 @@
 ### Hi there, I am Marcin <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-![Twitter URL](https://img.shields.io/twitter/url?label=Tweet%20Me&style=social&url=https%3A%2F%2Ftwitter.com%2Fmarcincholewka)
+---
+
+![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fmarcincholewka)
+
+I'm a front-end developer with a thorough understanding of React.js and its core principles.
+I possess strong communication skills with excellent interpersonal effectiveness, in one-on-one and team interactions.
+Being passionate about writing clean and highly-performant code I desire to remain up to date with the latest web technologies.
 
 <!--
 **MarcinCholewka/MarcinCholewka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
