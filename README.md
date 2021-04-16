@@ -2,7 +2,7 @@
 
 ---
 
-![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fmarcincholewka)
+[![Twitter URL](https://img.shields.io/twitter/url?label=Tweet%20me&style=social&url=https%3A%2F%2Ftwitter.com%2Fmarcincholewka)](https://twitter.com/marcincholewka)
 
 I'm a front-end developer with a thorough understanding of React.js and its core principles.
 I possess strong communication skills with excellent interpersonal effectiveness, in one-on-one and team interactions.
