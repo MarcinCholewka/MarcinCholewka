@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I am Marcin <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+![Twitter URL](https://img.shields.io/twitter/url?label=Tweet%20Me&style=social&url=https%3A%2F%2Ftwitter.com%2Fmarcincholewka)
 
 <!--
 **MarcinCholewka/MarcinCholewka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
