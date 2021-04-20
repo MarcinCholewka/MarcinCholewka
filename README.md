@@ -19,11 +19,11 @@ Being passionate about writing clean and highly-performant code I desire to rema
 📖 Latest Selleo Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [➤ How To Run A Remote Event Storming Session?](https://medium.com/selleo/how-to-run-a-remote-event-storming-session-5ba069909f93?source=rss----d0d4ff9f673d---4)
 - [➤ React Native vs Flutter: The Ultimate Comparison](https://medium.com/selleo/react-native-vs-flutter-the-ultimate-comparison-9e9f352fa03f?source=rss----d0d4ff9f673d---4)
 - [RegTech Solutions In A Nutshell: How To Build A Software Solution To Meet Compliance And…](https://medium.com/selleo/regtech-solutions-in-a-nutshell-how-to-build-a-software-solution-to-meet-compliance-and-d46282b6eb7f?source=rss----d0d4ff9f673d---4)
 - [➤ Why Choose React Native For Your Mobile Tech Stack?](https://medium.com/selleo/why-choose-react-native-for-your-mobile-tech-stack-ab860f2efc97?source=rss----d0d4ff9f673d---4)
 - [Beginner’s Guide To Gherkin](https://medium.com/selleo/beginners-guide-to-gherkin-eae83f6682b1?source=rss----d0d4ff9f673d---4)
-- [What Is An Onboarding Software And How To Build A Custom One?](https://medium.com/selleo/what-is-an-onboarding-software-and-how-to-build-a-custom-one-fc90acb9e275?source=rss----d0d4ff9f673d---4)
 <!-- BLOG-POST-LIST:END -->
 
 ▶️ [...more Selleo articles](https://selleo.com/blog)
