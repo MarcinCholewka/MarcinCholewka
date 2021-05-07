@@ -19,11 +19,11 @@ Being passionate about writing clean and highly-performant code I desire to rema
 📖 Latest Selleo Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Outsourcing Software Development: MVP, Proof of Concept, Prototyping](https://medium.com/selleo/outsourcing-software-development-mvp-proof-of-concept-prototyping-66ec9ad28ecc?source=rss----d0d4ff9f673d---4)
 - [How To Develop A Mobile App — Best Practices](https://medium.com/selleo/how-to-develop-a-mobile-app-best-practices-6f641cc621a?source=rss----d0d4ff9f673d---4)
 - [Mobile Software Development Trends To Know In 2021](https://medium.com/selleo/mobile-software-development-trends-to-know-in-2021-c205be89cfb8?source=rss----d0d4ff9f673d---4)
 - [How To Run A Remote Event Storming Session?](https://medium.com/selleo/how-to-run-a-remote-event-storming-session-5ba069909f93?source=rss----d0d4ff9f673d---4)
 - [React Native vs Flutter: The Ultimate Comparison](https://medium.com/selleo/react-native-vs-flutter-the-ultimate-comparison-9e9f352fa03f?source=rss----d0d4ff9f673d---4)
-- [RegTech Solutions In A Nutshell: How To Build A Software Solution To Meet Compliance And…](https://medium.com/selleo/regtech-solutions-in-a-nutshell-how-to-build-a-software-solution-to-meet-compliance-and-d46282b6eb7f?source=rss----d0d4ff9f673d---4)
 <!-- BLOG-POST-LIST:END -->
 
 ▶️ [...more Selleo articles](https://selleo.com/blog)
