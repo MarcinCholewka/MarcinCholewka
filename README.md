@@ -19,7 +19,7 @@ Being passionate about writing clean and highly-performant code I desire to rema
 📖 Latest Selleo Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [➤ Outsourcing ReactJS Development Services | Learn How To Do It Right](https://medium.com/selleo/outsourcing-reactjs-development-services-learn-how-to-do-it-right-febf54f6bfa?source=rss----d0d4ff9f673d---4)
+- [Outsourcing ReactJS Development Services | Learn How To Do It Right](https://medium.com/selleo/outsourcing-reactjs-development-services-learn-how-to-do-it-right-febf54f6bfa?source=rss----d0d4ff9f673d---4)
 - [How To Build A Mobile eLearning App And Make It Thrive?](https://medium.com/selleo/how-to-build-a-mobile-elearning-app-and-make-it-thrive-d39186dad077?source=rss----d0d4ff9f673d---4)
 - [Insights From An Online Conference: React Summit 2021 Recap](https://medium.com/selleo/insights-from-an-online-conference-react-summit-2021-recap-94537b0c87a3?source=rss----d0d4ff9f673d---4)
 - [How To Rebuild Existing Software: Fixing And Updating Legacy Code](https://medium.com/selleo/how-to-rebuild-existing-software-fixing-and-updating-legacy-code-c467aa53b033?source=rss----d0d4ff9f673d---4)
