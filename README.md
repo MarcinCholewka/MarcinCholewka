@@ -19,7 +19,7 @@ Being passionate about writing clean and highly-performant code I desire to rema
 📖 Latest Selleo Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [➤ How To Improve Collaboration On A Project With New Features By Netlify](https://medium.com/selleo/how-to-improve-collaboration-on-a-project-with-new-features-by-netlify-d770da5940e7?source=rss----d0d4ff9f673d---4)
+- [How To Improve Collaboration On A Project With New Features By Netlify](https://medium.com/selleo/how-to-improve-collaboration-on-a-project-with-new-features-by-netlify-d770da5940e7?source=rss----d0d4ff9f673d---4)
 - [How to Build Custom Real Estate Software Solution?](https://medium.com/selleo/how-to-build-custom-real-estate-software-solution-c8a32c9666e1?source=rss----d0d4ff9f673d---4)
 - [How to Build Your Own Real Estate Application like Zillow and Make it Thrive?](https://medium.com/selleo/how-to-build-your-own-real-estate-application-like-zillow-and-make-it-thrive-2865689bbff8?source=rss----d0d4ff9f673d---4)
 - [MVP App Development | The Art Of Building A Product That Will Sell](https://medium.com/selleo/mvp-app-development-the-art-of-building-a-product-that-will-sell-68a092354dd?source=rss----d0d4ff9f673d---4)
