@@ -19,11 +19,11 @@ Being passionate about writing clean and highly-performant code I desire to rema
 📖 Latest Selleo Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Essential RubyOnRails patterns —part 5: Pub/Sub](https://medium.com/selleo/essential-rubyonrails-patterns-part-5-pub-sub-22498bca84f0?source=rss----d0d4ff9f673d---4)
 - [How To Start Writing Gherkin Test Scenarios?](https://medium.com/selleo/how-to-start-writing-gherkin-test-scenarios-70557904134a?source=rss----d0d4ff9f673d---4)
 - [How To Run A Winning Kickoff Meeting](https://medium.com/selleo/how-to-run-a-winning-kickoff-meeting-6d765a0757fd?source=rss----d0d4ff9f673d---4)
 - [How To Improve Collaboration On A Project With New Features By Netlify](https://medium.com/selleo/how-to-improve-collaboration-on-a-project-with-new-features-by-netlify-d770da5940e7?source=rss----d0d4ff9f673d---4)
 - [How to Build Custom Real Estate Software Solution?](https://medium.com/selleo/how-to-build-custom-real-estate-software-solution-c8a32c9666e1?source=rss----d0d4ff9f673d---4)
-- [How to Build Your Own Real Estate Application like Zillow and Make it Thrive?](https://medium.com/selleo/how-to-build-your-own-real-estate-application-like-zillow-and-make-it-thrive-2865689bbff8?source=rss----d0d4ff9f673d---4)
 <!-- BLOG-POST-LIST:END -->
 
 ▶️ [...more Selleo articles](https://selleo.com/blog)
