@@ -19,11 +19,11 @@ Being passionate about writing clean and highly-performant code I desire to rema
 📖 Latest Selleo Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [A Simple Guide to Google DevTools](https://medium.com/selleo/a-simple-guide-to-google-devtools-de8204f430a3?source=rss----d0d4ff9f673d---4)
 - [Why Discovery Phase Is Essential For Startups?](https://medium.com/selleo/why-discovery-phase-is-essential-for-startups-c25343559fc7?source=rss----d0d4ff9f673d---4)
 - [Essential RubyOnRails patterns —part 5: Pub/Sub](https://medium.com/selleo/essential-rubyonrails-patterns-part-5-pub-sub-22498bca84f0?source=rss----d0d4ff9f673d---4)
 - [How To Start Writing Gherkin Test Scenarios?](https://medium.com/selleo/how-to-start-writing-gherkin-test-scenarios-70557904134a?source=rss----d0d4ff9f673d---4)
 - [How To Run A Winning Kickoff Meeting](https://medium.com/selleo/how-to-run-a-winning-kickoff-meeting-6d765a0757fd?source=rss----d0d4ff9f673d---4)
-- [How To Improve Collaboration On A Project With New Features By Netlify](https://medium.com/selleo/how-to-improve-collaboration-on-a-project-with-new-features-by-netlify-d770da5940e7?source=rss----d0d4ff9f673d---4)
 <!-- BLOG-POST-LIST:END -->
 
 ▶️ [...more Selleo articles](https://selleo.com/blog)
