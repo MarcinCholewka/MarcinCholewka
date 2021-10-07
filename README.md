@@ -1,4 +1,4 @@
-[![Marcin, Front-end developer](https://assets.selleo.com/banners/ajanik.svg)](https://selleo.com/)
+[![Marcin, Front-end developer](https://assets.selleo.com/banners/mcholewka.svg)](https://selleo.com/)
 <!-- ### Hello, I am Marcin <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> -->
 
 ---
