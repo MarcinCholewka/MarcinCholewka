@@ -42,3 +42,6 @@ Being passionate about writing clean and highly-performant code I desire to rema
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=marcin_cholewka)](https://github.com/anuraghazra/github-readme-stats)
 
+
+---
+<a href="https://app.daily.dev/MarcinCholewka"><img src="https://api.daily.dev/devcards/db90d713a33e436f9f9cf3b817dc3c48.png?r=dc4" width="400" alt="Marcin Cholewka's Dev Card"/></a>
