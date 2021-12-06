@@ -20,11 +20,11 @@ Being passionate about writing clean and highly-performant code I desire to rema
 📖 Latest Selleo Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [What Is API And How Does It Work In Simple Terms](https://medium.com/selleo/what-is-api-and-how-does-it-work-in-simple-terms-4ad38debc089?source=rss----d0d4ff9f673d---4)
-- [How To Develop A Personal Finance Application?](https://medium.com/selleo/how-to-develop-a-personal-finance-application-d832a104c4f1?source=rss----d0d4ff9f673d---4)
-- [A Simple Guide to Google DevTools](https://medium.com/selleo/a-simple-guide-to-google-devtools-de8204f430a3?source=rss----d0d4ff9f673d---4)
-- [Why Discovery Phase Is Essential For Startups?](https://medium.com/selleo/why-discovery-phase-is-essential-for-startups-c25343559fc7?source=rss----d0d4ff9f673d---4)
-- [Essential RubyOnRails patterns —part 5: Pub/Sub](https://medium.com/selleo/essential-rubyonrails-patterns-part-5-pub-sub-22498bca84f0?source=rss----d0d4ff9f673d---4)
+- [Everything You Need To Know About The RFP Process](https://medium.com/selleo/everything-you-need-to-know-about-the-rfp-process-bd1fec82094b?source=rss----d0d4ff9f673d---4)
+- [Fixed-Price Vs Time And Material Model — What To Choose?](https://medium.com/selleo/fixed-price-vs-time-and-material-model-what-to-choose-3a90cd66d85b?source=rss----d0d4ff9f673d---4)
+- [What Is IT Project Estimation?](https://medium.com/selleo/what-is-it-project-estimation-bfa01c64471e?source=rss----d0d4ff9f673d---4)
+- [How To Talk About Technical Stuff With A Non-Technical Person](https://medium.com/selleo/how-to-talk-about-technical-stuff-with-a-non-technical-person-fa00b971d662?source=rss----d0d4ff9f673d---4)
+- [What Is Digital Transformation And How Can It Change Your Business?](https://medium.com/selleo/what-is-digital-transformation-and-how-can-it-change-your-business-618f8007a41?source=rss----d0d4ff9f673d---4)
 <!-- BLOG-POST-LIST:END -->
 
 ▶️ [...more Selleo articles](https://selleo.com/blog)
